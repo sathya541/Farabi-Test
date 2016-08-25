@@ -1,3 +1,2 @@
-# Tutorial
+# Farabi Test App
 
-This is my tutorial repository.
