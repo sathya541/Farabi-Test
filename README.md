@@ -1,3 +1,3 @@
-# Read Me:
+# Tutorial
 
-Farabi test app.
+This is my tutorial repository.
