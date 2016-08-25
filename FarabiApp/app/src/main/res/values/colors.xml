@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="main_text_black">#404040</color>
+
+    <color name="divider_color">#eeeeee</color>
+    <color name="divider_color2">#E6E6E6</color>
+
+    <color name="colorPrimary">#00bb6e</color>
+    <color name="colorPrimaryDark">#38BB9F</color>
+    <color name="colorPrimaryLight">#53ddbb</color>
+
+    <color name="transparent">#00000000</color>
+
+    <color name="bgColorDarkerWhite">#f9f9f9</color>
+    <color name="bgColorWhite">#fefefe</color>
+    <color name="colorDarkGray">#d9d9d9</color>
+    <color name="colorLightGray">#eeeeee</color>
+
+    <color name="white">#FFFFFF</color>
+
+</resources>
+
